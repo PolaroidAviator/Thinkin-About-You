@@ -13,11 +13,13 @@
 		9A70D0D52E6B56950066A238 /* FirebaseAnalyticsCore in Frameworks */ = {isa = PBXBuildFile; productRef = 9A70D0D42E6B56950066A238 /* FirebaseAnalyticsCore */; };
 		9A70D0D72E6B56950066A238 /* FirebaseAnalyticsIdentitySupport in Frameworks */ = {isa = PBXBuildFile; productRef = 9A70D0D62E6B56950066A238 /* FirebaseAnalyticsIdentitySupport */; };
 		9ACDFEF32E715335006C6B83 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 9ACDFEF22E71532B006C6B83 /* .gitignore */; };
+		9ACDFF0B2E71708E006C6B83 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9ACDFF0A2E71708E006C6B83 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9A414E592E713CFC00241C06 /* Thinkin' About You.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Thinkin' About You.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ACDFEF22E71532B006C6B83 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		9ACDFF0A2E71708E006C6B83 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -50,6 +52,7 @@
 				9A1280AE2E6B4B68005E1416 /* Thinkin' About You */,
 				9A414E592E713CFC00241C06 /* Thinkin' About You.app */,
 				9ACDFEF22E71532B006C6B83 /* .gitignore */,
+				9ACDFF0A2E71708E006C6B83 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9ACDFEF32E715335006C6B83 /* .gitignore in Resources */,
+				9ACDFF0B2E71708E006C6B83 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
