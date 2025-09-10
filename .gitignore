@@ -1,0 +1,24 @@
+
+# Xcode build files
+DerivedData/
+build/
+*.xcuserstate
+*.xcworkspace
+*.xccheckout
+*.xcscmblueprint
+
+# User settings
+*.xcuserdatad*
+*.DS_Store
+
+# Firebase & API keys
+GoogleService-Info.plist
+*.xcconfig
+
+# Swift Package Manager
+/.build/
+/Packages/
+/Package.resolved
+
+# CocoaPods (only if you use it later)
+Pods/
