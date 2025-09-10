@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9A1280AC2E6B4B68005E1416 /* Thinkin' About You.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Thinkin' About You.app"; path = "/Users/connorcain/Desktop/Projects/Programming/Thinkin' About You/build/Debug-iphoneos/Thinkin' About You.app"; sourceTree = "<absolute>"; };
+		9A414E592E713CFC00241C06 /* Thinkin' About You.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Thinkin' About You.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -46,6 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				9A1280AE2E6B4B68005E1416 /* Thinkin' About You */,
+				9A414E592E713CFC00241C06 /* Thinkin' About You.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -76,7 +77,7 @@
 				9A70D0D62E6B56950066A238 /* FirebaseAnalyticsIdentitySupport */,
 			);
 			productName = "Thinkin' About You";
-			productReference = 9A1280AC2E6B4B68005E1416 /* Thinkin' About You.app */;
+			productReference = 9A414E592E713CFC00241C06 /* Thinkin' About You.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
